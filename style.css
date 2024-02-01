@@ -10,25 +10,6 @@
     height: 100vh;
     padding: 0.5rem;
 }
-#check{
-    display: none;
-}
-@media(min-width:700px){
-    .btn_one i{
-        display: none;
-    }
-}
-@media(max-width:700px){
-    .btn_one i{
-        position: absolute;
-        left:16px;
-        cursor:pointer;
-        color: white;
-        font-size: 30px;
-        font-weight: 700;
-        line-height: 60px;
-    }
-}
 .sidebar{
     background-color: #000;
     width: 340px;
