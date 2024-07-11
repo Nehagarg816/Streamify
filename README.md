@@ -1,6 +1,27 @@
-This is a music website frontend very similar to Spotify where we can listen to a variety of new and old songs, along with we can explore podcasts and other various gens. 
-Technology used: HTML, CSS.
+<h1>Streamify - Spotify clone</h1>
+<h3>Full Stack WebApp</h3>
+<p>This is a music website frontend very similar to Spotify where we can listen to a variety of new and old songs, along with we can explore podcasts and other various gens.</p>
+<h3>Come, Visit the Site!&#127881;</h3>
 
-Deployment link - https://nehagarg816.github.io/Streamify/
+# Tech Stack<br>
+<details>
+  <summary>Front-end</summary>  <br>
 
-![image](https://github.com/Nehagarg816/Streamify/assets/111566521/651edb0c-4d31-4148-b9fc-97662aa862fd)
+  > HTML: Add various elements and designs to the website.
+  
+  > CSS: Add styling to the website.
+    
+
+</details>
+
+
+<img src="https://github.com/Nehagarg816/Streamify/assets/111566521/651edb0c-4d31-4148-b9fc-97662aa862fd" alt="listing" width="550">
+
+
+<h3>Deployment</h3>
+<h5>Deployment is done using Github Pages</h5>
+<p>
+  Website Link: https://nehagarg816.github.io/Streamify/
+</p>
+
+
